@@ -17,7 +17,7 @@ This project is a full-fledged **E-Commerce Application** built using the **MERN
 • JWT (JSON Web Tokens for authentication)  
 • bcrypt (for password hashing)  
 
-## MILESTONES:
+# MILESTONES:
 # Milestone1
 This project refers to the implementation of an e-commerce application containing a structured front-end and a back-end; 
 the front end is responsible for the user's interface and experiences, while back-end is engaged in business logics, operations with databases and APIs.
