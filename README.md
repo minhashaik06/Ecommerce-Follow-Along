@@ -1,3 +1,22 @@
+# Ecommerce-Follow-Along
+This project is a full-fledged **E-Commerce Application** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). The project follows a mentor-guided approach to provide hands-on experience with **real-world web development** concepts.
+## Tech Stack
+
+### Frontend:
+• React.js  
+• Tailwind CSS  
+• Axios (for API calls)  
+• React Router (for navigation)  
+• Context API (for global state management)  
+
+### Backend:
+• Node.js  
+• Express.js  
+• MongoDB (Mongoose for database handling)  
+• Multer (for file uploads)  
+• JWT (JSON Web Tokens for authentication)  
+• bcrypt (for password hashing)  
+
 # Milestone1
 This project refers to the implementation of an e-commerce application containing a structured front-end and a back-end; 
 the front end is responsible for the user's interface and experiences, while back-end is engaged in business logics, operations with databases and APIs.
